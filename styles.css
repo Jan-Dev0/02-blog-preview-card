@@ -14,6 +14,7 @@
 }
 
 /* Font Definitions */
+/*
 @font-face {
   font-family: "Figtree";
   src: url("fonts/Figtree-VariableFont_wght.ttf") format("truetype-variations");
@@ -28,6 +29,7 @@
   font-weight: 100 900;
   font-style: italic;
 }
+*/
 
 /* Global Styles */
 html {
