@@ -128,7 +128,7 @@ body {
 }
 
 /* Responsive Styles */
-@media (min-width: 384px) {
+@media (min-width: 780px) {
   .card {
     width: 384px;
   }
