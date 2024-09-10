@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://jan-dev0.github.io/blog-preview-card)
+- [Solution URL](https://jan-dev0.github.io/02-blog-preview-card/)
 
 
 ## My process
